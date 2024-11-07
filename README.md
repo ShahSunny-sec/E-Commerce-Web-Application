@@ -57,7 +57,7 @@ This project is a scalable and secure e-commerce platform, built to enhance cust
 - **20% Increase in Conversion Rates**: Responsive design enhances accessibility and user satisfaction.
 
 ## 📄 Additional Resources
-- [Detailed Project Overview](./Docs/project_overview.md)
+- [Detailed Project Overview](./Docs/Project_overview.md)
 - [Setup Guide and Requirements](./Docs/setup_guide.md)
 
 ## 📈 Project Goals
