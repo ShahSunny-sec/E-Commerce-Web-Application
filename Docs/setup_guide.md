@@ -63,6 +63,6 @@ Before you start, make sure you have the following installed on your system:
 
 ---
 
-By following this setup guide, you should be able to install, configure, and run the E-Commerce Web Application locally. Refer to the [Detailed Project Overview](./project_overview.md) for more information on the project’s features and functionality.
+By following this setup guide, you should be able to install, configure, and run the E-Commerce Web Application locally. Refer to the [Detailed Project Overview](./Project_overview.md) for more information on the project’s features and functionality.
 
 If you encounter any issues or have questions, please refer to the documentation or contact the project maintainers.
